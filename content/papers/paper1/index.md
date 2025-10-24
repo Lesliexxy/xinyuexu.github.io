@@ -1,12 +1,12 @@
 ---
 title: "Information-theoretic and Bayesian Model Selection for Physics-based Model Calibration: Balancing
 Fit, Complexity, and Generalization" 
-date: "2026-02"  
+date: 2026-02-01
 tags: ["Model selection", "Model calibration", "Bayesian inference", "Uncertainty quantification", "Information-theoretic criteria", "Physics-based models"]
 author: ["Xinyue Xu","Julian Wang"]
 
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+# description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
+# summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 cover:
     image: "Figure1.tif"
     alt: "Model selection"
@@ -62,7 +62,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0020025525008795}}
 
 ---
 
-##### Related material
+<!-- ##### Related material
 
 + [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/) -->
