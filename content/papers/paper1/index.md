@@ -3,10 +3,10 @@ title: "Information-theoretic and Bayesian Model Selection for Physics-based Mod
 date: "2026-02-01"
 tags: ["Model selection", "Model calibration", "Bayesian inference", "Uncertainty quantification", "Information-theoretic criteria", "Physics-based models"]
 author: ["Xinyue Xu","Julian Wang"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+description: "This paper reviews information-theoretic and Bayesian criteria for model selection." 
+summary: "Address the trade-off between model fit, complexity, and generalization." 
 cover:
-    image: "Figure1.tif"
+    image: "Figure1.png"
     alt: "Model selection"
     relative: true
 editPost:
@@ -32,7 +32,7 @@ Reliable model selection is a cornerstone of developing physics-based models of 
 
 ##### Figure 1: Schematic diagram of bias-variance trade-off and model complexity. (a) underfitted model, (b) well-fitted model, and (c) overfitted model.
 
-![](Figure1.tif)
+![](Figure1.png)
 
 ---
 
