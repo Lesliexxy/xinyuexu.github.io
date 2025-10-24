@@ -55,7 +55,11 @@ params:
     profileMode:
           enabled: true
           title: Research assistant
-          subtitle: "I am a senior Ph. D. candidate in the Department of Architectural Engineering at Penn State."
+          subtitle: "I am a senior Ph. D. candidate in the Department of Architectural Engineering at Penn State. 
+          I am a researcher specializing in Physics-Informed Machine Learning (PIML) and Bayesian inference for uncertainty-aware modeling of complex engineering systems. 
+          My work bridges computational science and building engineering, developing scalable probabilistic frameworks that integrate physical laws into AI models to improve predictive robustness, interpretability, and generalization. 
+          I have published multiple peer-reviewed papers in high-impact journals on model selection, uncertainty quantification, and physics-guided Bayesian neural networks, with applications ranging from vibration dynamics to large-scale residential building energy systems. 
+          Proficient in Python, MATLAB, COMSOL, and ANSYS, I combine physics-based modeling with modern ML pipelines to advance data-driven engineering design and simulation under uncertainty"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
