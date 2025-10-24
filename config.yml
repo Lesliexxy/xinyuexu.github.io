@@ -12,9 +12,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        # - name: Books
+        #   url: books/
+          # weight: 5 
         - name: Papers
           url: papers/
           weight: 2
@@ -24,9 +24,9 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
     description: "This website hosts Xinyue (Leslie) Xu's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -55,25 +55,21 @@ params:
     profileMode:
           enabled: true
           title: Research assistant
-          subtitle: "I am a senior Ph. D. candidate in the Department of Architectural Engineering at Penn State University."
+          subtitle: "I am a senior Ph. D. candidate in the Department of Architectural Engineering at Penn State."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Publication
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
+            - name: Research Project
+              url: projects/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            # - name: Archive
+            #   url: archive/
+            # - name: Life
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
@@ -84,20 +80,14 @@ params:
           url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
+        # - name: Office Hours
+        #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=zJpzOSEAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/Lesliexxy?tab=repositories
+        - name: LinkedIn
+          url: hhttps://www.linkedin.com/in/xinyue-xu-8a4a74184/
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Xinyue (Leslie) Xu"
       icon: favicon.ico
       iconHeight: 18
 

@@ -1,17 +1,19 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+title: "Information-theoretic and Bayesian Model Selection for Physics-based Model Calibration: Balancing
+Fit, Complexity, and Generalization" 
+date: Feb. 2026
+tags: ["Model selection", "Model calibration", "Bayesian inference", "Uncertainty quantification", "Information-theoretic criteria", "Physics-based models"]
+author: ["Xinyue Xu","Julian Wang"]
+
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "Figure1.tif"
+    alt: "Model selection"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://www.sciencedirect.com/journal/information-sciences"
+    Text: "Information Sciences"
 
 ---
 
@@ -19,43 +21,48 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](https://doi.org/10.1016/j.ins.2025.122743)
++ [Code and data](https://github.com/Lesliexxy)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Reliable model selection is a cornerstone of developing physics-based models of engineering systems. However, existing model selection criteria has not been investigated across a variety of calibration scenarios, where selection choices can be affected by (i) parameter dimensionality, (ii) model form, (iii) prior informativeness, (iv) reparameterization, and (v) data characteristics. Moreover, it remains unclear whether these criteria can reliably distinguish model fidelity that genuinely improves explanatory power. These limitations restrict the broader applicability of model selection criteria in physics-based modeling, where balancing goodness-of-fit, complexity, and generalization is critical. To address these gaps, this study systematically evaluates information-theoretic and Bayesian model selection criteria through two case studies. The first case study employs polynomial regression models to isolate the effects of calibration factors and investigate their influence on the selection behavior of criteria. The second case study extends the analysis to a hierarchy of thermal models for double-pane windows, examining the ability of selection criteria to differentiate effective complexity from superficial increases in model fidelity. Results indicate that classical information-theoretic criteria are sensitive to parameter dimensionality, while covariance-based criteria reflect changes in model form and data characteristics, and Bayesian criteria exhibit sensitivity to all examined calibration factors. Furthermore, both covariance-based and Bayesian criteria effectively identify secondary physical mechanisms as sources of ineffective complexity, penalizing redundant fidelity. These findings underscore that model selection is not a one-size-fits-all task, and the choice of model selection criteria should be informed by the calibration scenario and the modeling objective.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: Schematic diagram of bias-variance trade-off and model complexity. (a) underfitted model, (b) well-fitted model, and (c) overfitted model.
 
-![](paper1.png)
+![](Figure1.tif)
+
+---
+
+##### Table 1: A summary of commonly used model selection criteria.
+
+![](Table1.png)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
+X. Xu, J.Wang. Information-theoretic and Bayesian Model Selection for Physics-based Model Calibration: Balancing
+Fit, Complexity, and Generalization. Information Sciences, Volume 726, 2026, 122743, ISSN 0020-0255, https://doi.org/10.1016/j.ins.2025.122743, (Impact factor: 6.8)
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{XU2026122743,
+title = {Information-theoretic and Bayesian model selection for physics-based modeling: Balancing fit, complexity, and generalization},
+journal = {Information Sciences},
+volume = {726},
+pages = {122743},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2025.122743},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025525008795}}
 ```
 
 ---
 
-##### Related material
+<!-- ##### Related material
 
 + [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/) -->
