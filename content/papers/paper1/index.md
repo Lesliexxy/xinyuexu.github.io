@@ -1,7 +1,7 @@
 ---
 title: "Information-theoretic and Bayesian Model Selection for Physics-based Model Calibration: Balancing
 Fit, Complexity, and Generalization" 
-date: Feb. 2026
+date: 2026-02
 tags: ["Model selection", "Model calibration", "Bayesian inference", "Uncertainty quantification", "Information-theoretic criteria", "Physics-based models"]
 author: ["Xinyue Xu","Julian Wang"]
 
